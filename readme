@@ -1,5 +1,5 @@
 linux 
-chmod +x lancer_programme.sh 
+chmod +x exec.sh
 ./lancer_programme.sh  
 
 
