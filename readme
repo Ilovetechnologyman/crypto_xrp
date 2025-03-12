@@ -1,0 +1,7 @@
+linux 
+chmod +x lancer_programme.sh 
+./lancer_programme.sh  
+
+
+
+windows : exec c tout 
