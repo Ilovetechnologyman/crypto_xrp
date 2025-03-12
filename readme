@@ -1,6 +1,6 @@
 linux 
 chmod +x exec.sh
-./lancer_programme.sh  
+./main.py
 
 
 
